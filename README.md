@@ -1,4 +1,4 @@
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 👨‍🦰 &nbsp;Sobre mim </h3>
 
 - :heart: &nbsp; Eu amo a @Shironep.
 - 🌱 &nbsp; Iniciante no mundo do **JavaScript**, **Html** e **CSS**.
