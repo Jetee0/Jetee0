@@ -1,6 +1,6 @@
 <h3> 👨‍🦰 &nbsp;Sobre mim </h3>
 
-- :heart: &nbsp; Eu amo a @Shironep.
+- :heart: &nbsp; Eu amo a <a href="https://github.com/Shironep">@Shironep</a>.
 - 🌱 &nbsp; Iniciante no mundo do **JavaScript**, **Html** e **CSS**.
 
 ## **Linguagens e Ferramentas:**  
