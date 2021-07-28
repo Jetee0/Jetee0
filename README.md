@@ -15,3 +15,6 @@
 <a href="https://github.com/Yuujet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuujet&show_icons=true&theme=dracula&line_height=27" alt="uujet github stats"/>
 </a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yuujet=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
