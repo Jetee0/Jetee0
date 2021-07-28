@@ -12,6 +12,7 @@
 <code><img height="30" src="https://bit.ly/3gP4Qgx"></code>
 <code><img height="30" src="https://bit.ly/37iML7j"></code>
 <code><img height="30" src="https://cutt.ly/YQukyil"></code>
+<code><img height="30" src="https://bit.ly/3nlY4kZ"></code>
 
 ## **GitHub Estatísticas**
 
