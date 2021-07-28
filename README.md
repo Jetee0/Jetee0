@@ -16,7 +16,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuujet&show_icons=true&theme=dracula&line_height=27" alt="uujet github stats"/>
 </a>
 
-### **Linguagens mais Usadas**
+## **Linguagens mais Usadas**
 
 <a href="https://github.com/Yuujet">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuujet&layout=compact&show_icons=true&theme=dracula&line_height=27" alt="Most Languages">
