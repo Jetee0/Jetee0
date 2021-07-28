@@ -17,5 +17,5 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuujet)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuujet&show_icons=true&theme=radical))
 
