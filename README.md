@@ -2,6 +2,7 @@
 
 - :heart: &nbsp; Eu amo a <a href="https://github.com/Shironep">@Shironep</a>.
 - 🌱 &nbsp; Iniciante no mundo do **JavaScript**, **Html** e **CSS**.
+- 🤖 Desenvolvedor da <a href="">Olivia#1472</a>.
 
 ## **Linguagens e Ferramentas:**  
 
