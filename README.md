@@ -4,6 +4,8 @@
 - 🌱 &nbsp; Iniciante no mundo do **JavaScript**, **Html** e **CSS**.
 - 🤖 Desenvolvedor da <a href="https://top.gg/bot/474795511233380353">Olivia#1472</a>.
 
+![](https://komarev.com/ghpvc/?username=Yuujet&color=006bed)
+
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
