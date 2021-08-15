@@ -1,10 +1,10 @@
-<h3> 👨‍🦰 &nbsp;Sobre mim </h3>
+<h3> 👨‍🦰 &nbsp;Sobre mim ![https://github.com/Yuujet/](https://komarev.com/ghpvc/?username=Yuujet&color=006bed) </h3>
 
 - :heart: &nbsp; Eu amo a <a href="https://github.com/Shironep">@Shironep</a>.
 - 🌱 &nbsp; Iniciante no mundo do **JavaScript**, **Html** e **CSS**.
 - 🤖 Desenvolvedor da <a href="https://top.gg/bot/474795511233380353">Olivia#1472</a>.
 
-![](https://komarev.com/ghpvc/?username=Yuujet&color=006bed)
+
 
 ## **Linguagens e Ferramentas:**  
 
