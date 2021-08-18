@@ -3,7 +3,7 @@
 <h3> 👨‍🦰 &nbsp;Sobre mim</h3>
 
 - :heart: &nbsp; Eu amo a <a href="https://github.com/Shironep">@Shironep</a>.
-- 🌱 &nbsp; Iniciante no mundo do **JavaScript**, **Html** e **CSS**.
+- 🌱 &nbsp; Iniciante no mundo do **JavaScript**, **Html5** e **CSS**.
 - 🤖 Desenvolvedor da <a href="https://top.gg/bot/474795511233380353">Olivia#1472</a>.
 
 ## **Linguagens e Ferramentas:**  
