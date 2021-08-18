@@ -1,10 +1,10 @@
+![https://github.com/Yuujet/](https://komarev.com/ghpvc/?username=Yuujet&color=006bed)
+
 <h3> 👨‍🦰 &nbsp;Sobre mim</h3>
 
 - :heart: &nbsp; Eu amo a <a href="https://github.com/Shironep">@Shironep</a>.
 - 🌱 &nbsp; Iniciante no mundo do **JavaScript**, **Html** e **CSS**.
 - 🤖 Desenvolvedor da <a href="https://top.gg/bot/474795511233380353">Olivia#1472</a>.
-
-![https://github.com/Yuujet/](https://komarev.com/ghpvc/?username=Yuujet&color=006bed)
 
 ## **Linguagens e Ferramentas:**  
 
@@ -16,6 +16,12 @@
 <code><img height="30" src="https://bit.ly/37iML7j"></code>
 <code><img height="30" src="https://cutt.ly/YQukyil"></code>
 <code><img height="30" src="https://bit.ly/3nlY4kZ"></code>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
 
 ## **GitHub Estatísticas**
 
