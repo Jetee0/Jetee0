@@ -2,7 +2,6 @@
 
 <h3> 👨‍🦰 &nbsp;Sobre mim</h3>
 
-- :heart: &nbsp; Eu amo a <a href="https://github.com/Shironep">@Shironep</a>.
 - 🌱 &nbsp; Iniciante no mundo do **JavaScript**, **Html5** e **CSS**.
 - 🤖 &nbsp; Desenvolvedor da <a href="https://i-am-a-web.site/olivia/">Olivia#1472</a>.
 
