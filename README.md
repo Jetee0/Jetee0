@@ -1,4 +1,4 @@
-![https://github.com/Yuujet/](https://komarev.com/ghpvc/?username=Jetee0&color=006bed)
+![https://github.com/Jetee0/](https://komarev.com/ghpvc/?username=Jetee0&color=006bed)
 
 <h3> 👨‍🦰 &nbsp;Sobre mim</h3>
 
@@ -25,11 +25,11 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Yuujet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuujet&show_icons=true&theme=dracula&line_height=27" alt="uujet github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jetee0&show_icons=true&theme=dracula&line_height=27" alt="uujet github stats"/>
 </a>
 
 ## **Linguagens mais Usadas**
 
 <a href="https://github.com/Yuujet">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuujet&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&line_height=27" alt="Most Languages">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jetee0&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&line_height=27" alt="Most Languages">
 </a>
