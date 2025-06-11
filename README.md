@@ -1,4 +1,4 @@
-![https://github.com/Yuujet/](https://komarev.com/ghpvc/?username=Yuujet&color=006bed)
+![https://github.com/Yuujet/](https://komarev.com/ghpvc/?username=Jetee0&color=006bed)
 
 <h3> 👨‍🦰 &nbsp;Sobre mim</h3>
 
